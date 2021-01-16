@@ -22,6 +22,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/baHCcVS' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
 https://imgur.com/a/baHCcVS
+
 ^^ clicking link does not work but copying and pasting link does
 
 
