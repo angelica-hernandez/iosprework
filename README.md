@@ -21,6 +21,7 @@ The following **required** functionality is complete:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/baHCcVS' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
+^^ clicking link does not work but copying and pasting link does
 
 
 ## Notes
